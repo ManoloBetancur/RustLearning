@@ -1,0 +1,1 @@
+/home/manolounix/Rust\ learning/Ultimate_Rust_Course/ultimate_rust_crash_course/exercise/a_variables/vars/target/debug/vars: /home/manolounix/Rust\ learning/Ultimate_Rust_Course/ultimate_rust_crash_course/exercise/a_variables/vars/src/main.rs
